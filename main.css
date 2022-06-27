@@ -175,10 +175,12 @@ button {
     margin-bottom: -15px;
 }
 .float-motion{
+    position: relative;
     border-radius: 50px;
     margin-top: 10%;
     margin-left: -10%;
     width: 30%;
+    top: 10px;
     float: left;
 }
 #about p{
